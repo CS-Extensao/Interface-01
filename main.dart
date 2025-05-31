@@ -46,7 +46,7 @@ class LoginScreen extends StatelessWidget {
                     right: 5,
                     top: 10,
                     child: Image.asset(
-                      'assets/turtle.png', // adicione essa imagem na pasta assets
+                      'assets/turtle.jpg', // adicione essa imagem na pasta assets
                       height: 60,
                     ),
                   ),
